@@ -22,3 +22,9 @@ This idea will likely need
 - The ICS section page
 - A login page
 - Other pages not yet thought of
+
+## Appendix
+
+## [M1 Project] 
+
+## [Contract](https://docs.google.com/document/d/1xYJmXnE_EMxqvXJQP85zjtr-adYrsPa7Yv8gQr9Bpp4/edit)

@@ -29,8 +29,14 @@ This is the first page everyone sees when they view our website.
 ### Sign Up Page
 Here users can create an account, allowing access to the features of Spot a Scholar.
 
+This is an example of what the sign up page will look like
+<img src="images/signup-page-mockup.png">
+
 ### Login Page
 Returning users who have already created accounts can log in here.
+
+This is an example of what the login page will look like
+<img src="images/login-page-mockup.png">
 
 ### Home Page
 Logged-in users see this page with all available features

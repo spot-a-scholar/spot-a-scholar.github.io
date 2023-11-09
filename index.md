@@ -38,8 +38,14 @@ Logged-in users see this page with all available features
 ### User Profile Page
 Here, users can edit their profiles by changing their pictures, current courses, class standing, etc. 
 
+This is an example of what the User Profile Page might look like
+<img src="images/user-profile-mock.png">
+
 ### Create Meeting Page
 Users can schedule a meeting date, location for hosting, and material they are planning on studying.
+
+This is an example of what the Create Meeting Page might look like
+<img src="images/create-meeting-mock.png">
 
 ### Calendar Page
 Users can view all scheduled events in a calendar format and request to join desired sessions

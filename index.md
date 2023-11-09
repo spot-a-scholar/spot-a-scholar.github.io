@@ -41,6 +41,8 @@ Here, users can edit their profiles by changing their pictures, current courses,
 This is an example of what the User Profile Page might look like
 <img src="images/user-profile-mock.png">
 
+### ICS Section Page
+
 ### Create Meeting Page
 Users can schedule a meeting date, location for hosting, and material they are planning on studying.
 
@@ -49,12 +51,16 @@ This is an example of what the Create Meeting Page might look like
 
 ### Calendar Page
 Users can view all scheduled events in a calendar format and request to join desired sessions
+<img src="images/calendar-mockup.png">
 
-### ICS Section Page
+### Admin Calendar Page 
+Page for authorized users to view all scheduled events in a calendar format and remove/cancel sessions
+<img src="images/calendarAdmin-mockup.png">
 
-
-### Admin Page
-Page for authorized users where they can do things like close/cancel sessions, remove users, etc.
+### Admin User List Page
+Page for authorized users to view all users and remove them from the system
+<img src="images/UserListAdmin-mockup.png">
+<img src="images/UserProfileAdmin-mockup.png">
 
 ## Milestones
 

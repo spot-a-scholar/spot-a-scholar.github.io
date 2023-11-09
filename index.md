@@ -9,7 +9,7 @@
 
 ## Overview
 
-Spot a Scholar is an application that allows users to start study sessions for courses. This allows for people to both teach and learn from each other. Users must provide a photo so that other users can identify them.
+Spot a Scholar is an application that organizes student-led study sessions for courses. This allows for people to both teach and learn from one another.
 
 There will be a section that will list ICS courses, and within this course, the users can see both the tutors and the ones who need tutoring. Users can then contact each other through the app to set up a time and place to meet within ICSpace. There will be an online calendar to show the meetings and who is attending.
 
@@ -17,7 +17,7 @@ Spot a scholar can be used to schedule a study session, or to find a tutor who i
 
 ## Goals
 
-Since there is a barrier in getting students to ask for help, there can be some sort of reward system to be implemented in the future. What this exactly entails is still up for discussion.
+The goal is to encourage face-to-face study groups and peer mentorship to enhance how students learn material for their courses. This can be done by providing an easy-to-use and streamlined application where setting up these sessions is quick and simple. However, there may be a psychological barrier to getting students to ask for help. As a solution, an incentive/reward system can be implemented that rewards users who participate in sessions. What this entails is still up for discussion. 
 
 ## User Guide
 

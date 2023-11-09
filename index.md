@@ -1,9 +1,10 @@
 
 ## Table of Contents
-* [Overview] (#overview)
-* [Goals] (#goals)
-* [User Guide] (#user-guide)
-* 
+* [Overview](#overview)
+* [Goals](#goals)
+* [User Guide](#user-guide)
+* [Milestones](#milestones)
+* [Team](#team)
 
 ## Overview
 
@@ -21,20 +22,28 @@ Since there is a barrier in getting students to ask for help, there can be some 
 
 This section provides information on the user interface and features of our application
 
-# Mockup Page Ideas
-This idea will likely need
-- A landing page
-- A home page
-- An admin page
-- A user profile page
-- A calendar page
-- A create meeting page
-- The ICS section page
-- A login page
-- Other pages not yet thought of
+### Landing Page
 
-## Appendix
+### Login Page
 
-## [M1 Project] 
+### Sign Up Page
 
-## [Contract](https://docs.google.com/document/d/1xYJmXnE_EMxqvXJQP85zjtr-adYrsPa7Yv8gQr9Bpp4/edit)
+### Home Page
+
+### User Profile Page
+
+### Create Meeting Page
+
+### Calendar Page
+
+### ICS Section Page
+
+### Admin Page
+
+## Milestones
+### [Milestone 1](https://github.com/orgs/spot-a-scholar/projects/1/views/1)
+### Milestone 2
+### Milestone 3
+
+## Team
+Spot a Scholar was created by [Adrian Peng](), [Brayden Suzuki](), [Carl Domingo](), [Gavin Ng](), and [Leo Liang](). All members have agreed to the team contract found [here](https://docs.google.com/document/d/1xYJmXnE_EMxqvXJQP85zjtr-adYrsPa7Yv8gQr9Bpp4/edit)

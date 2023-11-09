@@ -46,4 +46,4 @@ This section provides information on the user interface and features of our appl
 ### Milestone 3
 
 ## Team
-Spot a Scholar was created by [Adrian Peng](), [Brayden Suzuki](), [Carl Domingo](), [Gavin Ng](), and [Leo Liang](). All members have agreed to the team contract found [here](https://docs.google.com/document/d/1xYJmXnE_EMxqvXJQP85zjtr-adYrsPa7Yv8gQr9Bpp4/edit)
+Spot a Scholar was created by [Adrian Peng](https://github.com/AdrianPeng02), [Brayden Suzuki](https://github.com/braydens02), [Carl Domingo](https://github.com/carld20), [Gavin Ng](https://github.com/Ng-Gavin), and [Leo Liang](https://github.com/leoliang22). All members have agreed to the team contract found [here](https://docs.google.com/document/d/1xYJmXnE_EMxqvXJQP85zjtr-adYrsPa7Yv8gQr9Bpp4/edit)

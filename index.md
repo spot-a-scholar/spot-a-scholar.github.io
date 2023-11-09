@@ -48,6 +48,8 @@ This is an example of what the User Profile Page might look like
 <img src="images/user-profile-mock.png">
 
 ### ICS Section Page
+Users can view the various ICS classes, as well as the professors and students that are associated with each class. Users can click on a particular ICS class that takes them to the create meeting page, to create a meeting for that specific class.
+<img src="images/ICS-section-page-mockup.png">
 
 ### Create Meeting Page
 Users can schedule a meeting date, location for hosting, and material they are planning on studying.

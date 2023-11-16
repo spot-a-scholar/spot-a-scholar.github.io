@@ -25,7 +25,7 @@ This section provides information on the user interface and features of our appl
 
 ### Landing Page
 This is the first page everyone sees when they view our website.  
-<img src="images/landing-page-mockup.png">
+<img src="images/landing-page-mockup.jpg">
 ___
 
 ### Sign Up Page
@@ -44,7 +44,7 @@ ___
 
 ### Home Page
 Logged-in users see this page with all available features
-<img src="images/home-page-mockup.png">
+<img src="images/home-page-mockup.jpg">
 ___
 
 ### User Profile Page

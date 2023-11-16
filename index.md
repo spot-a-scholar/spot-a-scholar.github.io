@@ -4,7 +4,7 @@
 * [Overview](#overview)
 * [Goals](#goals)
 * [User Guide](#user-guide)
-* [Deploymnet](#deployment)
+* [Deployment](#deployment)
 * [Milestones](#milestones)
 * [Team](#team)
 

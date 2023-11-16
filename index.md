@@ -32,14 +32,14 @@ ___
 Here users can create an account, allowing access to the features of Spot a Scholar.
 
 This is an example of what the signup page will look like
-<img src="images/signup-page-mockup.png">
+<img src="images/signup-page-draft.png">
 ___
 
 ### Login Page
 Returning users who have already created accounts can log in here.
 
 This is an example of what the login page will look like
-<img src="images/login-page-mockup.png">
+<img src="images/login-page-draft.png">
 ___
 
 ### Home Page

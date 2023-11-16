@@ -84,6 +84,7 @@ ___
 ## Milestones
 
 ### [Milestone 1](https://github.com/orgs/spot-a-scholar/projects/1/views/1)
+### [Digital Ocean Deployment](http://161.35.229.168)
 ### Milestone 2
 ### Milestone 3
 

@@ -4,6 +4,7 @@
 * [Overview](#overview)
 * [Goals](#goals)
 * [User Guide](#user-guide)
+* [Deploymnet](#deployment)
 * [Milestones](#milestones)
 * [Team](#team)
 
@@ -77,6 +78,10 @@ Page for authorized users to view all users and remove them from the system
 <img src="images/UserListAdmin-mockup.png">
 <img src="images/UserProfileAdmin-mockup.png">
 ___
+
+## Deployment
+Spot-a-Scholar is deployed on digital ocean [here](http://161.35.229.168)
+
 ## Milestones
 
 ### [Milestone 1](https://github.com/orgs/spot-a-scholar/projects/1/views/1)

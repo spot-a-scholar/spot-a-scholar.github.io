@@ -56,7 +56,7 @@ ___
 
 ### ICS Section Page
 Users can view the various ICS classes, as well as the professors and students that are associated with each class. Users can click on a particular ICS class that takes them to the Create Meeting page, to create a meeting for that specific class.
-<img src="images/ICS-section-page-mockup.png">
+<img src="images/ics-section-page-mockup.png">
 ___
 
 ### Create Meeting Page

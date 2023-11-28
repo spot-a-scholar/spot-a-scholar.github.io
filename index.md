@@ -30,13 +30,13 @@ This is the first page everyone sees when they view our website.
 ___
 
 ### Sign Up Page
-Here users can create an account, allowing access to the features of Spot a Scholar.
-<img src="images/signup-page-draft.png">
+Here users can create an account, allowing access to the features of Spot a Scholar. After creating an account, the user will be directed to the user profile page where they'll be able to edit their profile.
+<img src="images/signup-page.png">
 ___
 
 ### Login Page
 Returning users who have already created accounts can log in here.
-<img src="images/login-page-draft.png">
+<img src="images/login-page.png">
 ___
 
 ### Home Page

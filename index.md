@@ -47,8 +47,14 @@ ___
 ### User Profile Page
 Here, users can edit their profiles by changing their pictures, current courses, class standing, etc. 
 
-This is an example of what the User Profile Page might look like
-<img src="images/user-profile-mock.png">
+This is the create user profile page.
+<img src="images/create-user-profile.png">
+
+Temporarily, there is a page to show the profiles that a user has. Hopefully in the future, the edit button will be on the userprofile page.
+<img  src="images/show-user-profile.png">
+
+You can edit your profile once you click the edit button.
+<img src="images/edit-user-profile.png">
 ___
 
 ### ICS Section Page

@@ -92,3 +92,5 @@ Spot-a-Scholar is deployed on digital ocean [here](http://161.35.229.168)
 
 ## Team
 Spot a Scholar was created by [Adrian Peng](https://github.com/AdrianPeng02), [Brayden Suzuki](https://github.com/braydens02), [Carl Domingo](https://github.com/carld20), [Gavin Ng](https://github.com/Ng-Gavin), and [Leo Liang](https://github.com/leoliang22). All members have agreed to the team contract found [here](https://docs.google.com/document/d/1xYJmXnE_EMxqvXJQP85zjtr-adYrsPa7Yv8gQr9Bpp4/edit)
+
+![ci-badge](https://github.com/spot-a-scholar/spot-a-scholar/workflows/spot-a-scholar/badge.svg)

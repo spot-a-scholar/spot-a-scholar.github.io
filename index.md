@@ -50,7 +50,7 @@ Here, users can edit their profiles by changing their pictures, current courses,
 This is the create user profile page.
 <img src="images/create-user-profile.png">
 
-Temporarily, there is a page to show the profiles that a user has. Hopefully in the future, the edit button will be on the user profile page.
+This is what the show user profile page currently looks like. Eventually, this will either display the profile data as a card, or the link to edit will be on the create user profile page and this page will no longer be needed. 
 <img  src="images/show-user-profile.png">
 
 You can edit your profile once you click the edit button.

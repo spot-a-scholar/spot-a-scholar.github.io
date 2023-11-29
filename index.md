@@ -1,4 +1,4 @@
-## Spot a Scholar
+## Spot a Scholar [View on Github](https://github.com/spot-a-scholar)
 
 ## Table of Contents
 * [Overview](#overview)

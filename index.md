@@ -71,19 +71,13 @@ This is an example of what the Create Meeting Page might look like
 ___
 
 ### Calendar Page
-Users can view all scheduled events in a calendar format and request to join desired sessions. (WIP, Continuing to M2)
-<img src="images/calendar-mockup.png">
-___
-
-### Admin Calendar Page 
-A page for authorized users to view all scheduled events in a calendar format and remove/cancel sessions. (WIP, Continuing to M2)
-<img src="images/calendarAdmin-mockup.png">
+Users can view all scheduled meetings, join desired meetings, and admins can delete meetings. (Filtering by course and functionality currently in progress, continuing to M3.)
+<img src="images/calendar.png">
 ___
 
 ### Admin User List Page
-Page for authorized users to view all users and remove them from the system. (WIP, Continuing to M2)
+Page for authorized users to view all users and remove them from the system. (WIP, completed form will use cards)
 <img src="images/UserListAdmin-mockup.png">
-<img src="images/UserProfileAdmin-mockup.png">
 ___
 
 ## Deployment

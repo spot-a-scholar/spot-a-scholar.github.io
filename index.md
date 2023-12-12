@@ -67,14 +67,14 @@ This is an example of what the Create Meeting Page might look like
 <img src="images/createmeeting-page.jpg">
 ___
 
-### Calendar Page
-Users can view all scheduled meetings, join desired meetings, and admins can delete meetings. (Filtering by course and functionality currently in progress, continuing to M3.)
+### List Meetings Page
+Users can view all scheduled meetings, join desired meetings, and view participants of the meeting.
 <img src="images/listmeetings-final.jpg">
 ___
 
-### Admin User List Page
-Page for authorized users to view all users and remove them from the system. (WIP, completed form will use cards)
-<img src="images/UserListAdmin-mockup.png">
+### Admin Meeting List Page
+Page for authorized users to view all meetings and remove them from the system.
+<img src="images/calendarAdmin-final.png">
 ___
 
 ### Feedback
@@ -82,7 +82,7 @@ Scoring (Out of 5):<br>
 <br>
 Tanner O.<br>
 Aesthetic: 5<br>
-Functionality: 5<br>
+Functionality: 5<br>!
 Ease of Use: 5<br>
 Comments: This is a heater<br>
 <br>

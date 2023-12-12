@@ -72,8 +72,13 @@ Users can view all scheduled meetings, join desired meetings, and view participa
 <img src="images/listmeetings-final.jpg">
 ___
 
+### Leaderboard Page
+When users create meetings, they gain points. The top point scorers are displayed on the leaderboard to incentivize collaboration.
+<img src="images/leaderboard-final.jpg">
+___
+
 ### Admin Meeting List Page
-Page for authorized users to view all meetings and remove them from the system.
+A page for authorized users to view all meetings and remove them from the system.
 <img src="images/calendarAdmin-final.png">
 ___
 

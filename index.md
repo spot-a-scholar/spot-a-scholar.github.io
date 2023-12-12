@@ -27,52 +27,49 @@ This section provides information on the user interface and features of our appl
 
 ### Landing Page
 This is the first page everyone sees when they view our website.  
-<img src="images/landing-page-mockup.jpg">
+<img src="images/landing-final.jpg">
 ___
 
 ### Sign Up Page
 Here users can create an account, allowing access to the features of Spot a Scholar. After creating an account, the user will be directed to the user profile page where they'll be able to edit their profile.
-<img src="images/signup-page.png">
+<img src="images/signup-final.jpg">
 ___
 
 ### Login Page
 Returning users who have already created accounts can log in here.
-<img src="images/login-page.png">
+<img src="images/login-final.jpg">
 ___
 
 ### Home Page
 Logged-in users see this page with all available features
-<img src="images/home-page-mockup.jpg">
+<img src="images/home-final.jpg">
 ___
 
 ### User Profile Page
 Here, users can edit their profiles by changing their pictures, current courses, class standing, etc. 
 
 This is the create user profile page.
-<img src="images/create-user-profile.png">
+<img src="images/userprofile-final.jpg">
 
 This is what the show user profile page currently looks like. It displays the user's information in a card, and has an edit button to edit the profile.
-<img  src="images/show-user-profile.png">
-
-You can edit your profile once you click the edit button.
-<img src="images/edit-user-profile.png">
+<img  src="images/showprofile-page.jpg">
 ___
 
 ### ICS Section Page
 Users can view the various ICS classes, as well as the professors and students that are associated with each class. Users can click on a particular ICS class that takes them to the Create Meeting page, to create a meeting for that specific class.
-<img src="images/ics-section-page-mockup.png">
+<img src="images/icsclasses-final.jpg">
 ___
 
 ### Create Meeting Page
 Users can schedule a meeting date, location for hosting, and material they are planning on studying.
 
 This is an example of what the Create Meeting Page might look like
-<img src="images/create-meeting.png">
+<img src="images/createmeeting-page.jpg">
 ___
 
 ### Calendar Page
 Users can view all scheduled meetings, join desired meetings, and admins can delete meetings. (Filtering by course and functionality currently in progress, continuing to M3.)
-<img src="images/calendar.png">
+<img src="images/listmeetings-final.jpg">
 ___
 
 ### Admin User List Page

@@ -67,7 +67,7 @@ ___
 Users can schedule a meeting date, location for hosting, and material they are planning on studying.
 
 This is an example of what the Create Meeting Page might look like
-<img src="images/create-meeting-mock.png">
+<img src="images/create-meeting.png">
 ___
 
 ### Calendar Page

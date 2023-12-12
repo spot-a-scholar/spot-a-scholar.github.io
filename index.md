@@ -81,37 +81,37 @@ Page for authorized users to view all users and remove them from the system. (WI
 ___
 
 ### Feedback
-Scoring (Out of 5):
-
-Tanner O.
-Aesthetic: 5
-Functionality: 5
-Ease of Use: 5
-Comments: This is a heater
-
-Colby C:
-Aesthetic: 4
-Functionality: 4
-Ease of Use: 5
-Comments: Good enough cause even I know how to use it
-
-Velika Y:
-Aesthetic: 3
-Functionality: 5
-Ease of Use: 5
-Comments: Nice concept
-
-Joshua A:
-Aesthetic: 4
-Functionality: 5
-Ease of Use: 5
-Comments: Banger app
-
-Sherise P:
-Aesthetic: 3
-Functionality: 5
-Ease of Use: 5
-Comments: Whoever picked these colors needs to be replaced
+Scoring (Out of 5):<br>
+<br>
+Tanner O.<br>
+Aesthetic: 5<br>
+Functionality: 5<br>
+Ease of Use: 5<br>
+Comments: This is a heater<br>
+<br>
+Colby C: <br>
+Aesthetic: 4<br>
+Functionality: 4<br>
+Ease of Use: 5<br>
+Comments: Good enough cause even I know how to use it<br>
+<br>
+Velika Y:<br>
+Aesthetic: 3<br>
+Functionality: 5<br>
+Ease of Use: 5<br>
+Comments: Nice concept<br>
+<br>
+Joshua A:<br>
+Aesthetic: 4<br>
+Functionality: 5<br>
+Ease of Use: 5<br>
+Comments: Banger app<br>
+<br>
+Sherise P:<br>
+Aesthetic: 3<br>
+Functionality: 5<br>
+Ease of Use: 5<br>
+Comments: Whoever picked these colors needs to be replaced<br>
 
 ## Deployment
 Spot-a-Scholar is deployed on digital ocean [here](http://161.35.229.168)
